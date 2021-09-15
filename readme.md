@@ -1,7 +1,7 @@
 # COPD Readmission Modelling
 
 ### Setup
-Create a new environment and simply run `pip install -r requiremtns.txt` to install all needed libraries
+Create a new environment and simply run `pip install -r requirements.txt` to install all needed libraries
 
 ### Training
 `full_train_pipeline` is a self-contained training script for the XGBoost model from the SQL data. Simply run

@@ -1,8 +1,7 @@
 # COPD Readmission Modelling
 
 ### Setup
-Create a new Conda env with the provided `environment.yml` and python 3.8.0 with 
-`conda create -n "copd" -f environment.yml python=3.8.0` 
+Create a new environment and simply run `pip install -r requiremtns.txt` to install all needed libraries
 
 ### Training
 `full_train_pipeline` is a self-contained training script for the XGBoost model from the SQL data. Simply run

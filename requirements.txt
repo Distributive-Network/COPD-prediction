@@ -1,0 +1,11 @@
+pgeocode~=0.3.0
+pandas~=1.2.1
+xgboost~=1.4.2
+pyodbc~=4.0.32
+numpy~=1.19.2
+scipy~=1.5.2
+joblib~=1.0.1
+imbalanced_learn~=0.8.0
+scikit_learn==0.24.2
+shap==0.39.0
+matplotlib==3.4.3

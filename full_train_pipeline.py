@@ -228,6 +228,7 @@ def main():
     SCALING = 'norm'  # norm or rankgauss
 
     # Reads in data from server or csv file
+    # Ensure password is included
     #df = get_sql_dataframe()
     df = pd.read_csv('~/PycharmProjects/COPD/GitLab/copd/xgboost_deploy/full_data.csv')
     df = clean_data(df)
